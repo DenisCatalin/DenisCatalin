@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DenisCatalin
-- 👀 I’m interested in Frontend Web Development
+- 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning React.JS and everything that has 'React' in it :)
 - 💞️ I’m looking to collaborate on any web projects
 - 📫 How to reach me: 
