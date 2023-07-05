@@ -10,7 +10,7 @@ You can reach me via e-mail, discord, facebook or instagram.
 - Facebook: https://www.facebook.com/denis.catalin25/
 - Instagram: https://www.instagram.com/denis_catalin25/
 
-My recent project: https://restaurant-app-next.vercel.app/
+My recent project: https://gym-expert.vercel.app/
 
 <!---
 DenisCatalin/DenisCatalin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
