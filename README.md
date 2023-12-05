@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DenisCatalin
-- 👀 I’m interested in Frontend Development
+- 👀 I’m interested in Web Development
 - 💼 Worked between 5th Sept. 2022 and 9th Dec. 2022 at https://wevideo.com
 - 📫 How to reach me: 
 
