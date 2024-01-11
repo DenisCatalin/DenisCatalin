@@ -6,7 +6,7 @@
 You can reach me via e-mail, discord, facebook or instagram.
 
 - Email: deniscotecata@gmail.com
-- Discord: Denis Catalin#0684
+- Discord: deniscatalin
 - Facebook: https://www.facebook.com/denis.catalin25/
 - Instagram: https://www.instagram.com/denis_catalin25/
 
